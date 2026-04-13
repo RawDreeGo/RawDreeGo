@@ -1,4 +1,8 @@
-# Hola, soy Rodrigo 👋
+<div align="center">
+  <img src="GitHubBanner.png" alt="Banner de Perfil" width="100%">
+</div>
+
+---
 
 <div align="center">
   <a href="mailto:roderickcissan@gmail.com">
