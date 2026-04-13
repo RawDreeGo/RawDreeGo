@@ -2,7 +2,7 @@
   <img src="GitHubBanner.png" alt="Profile Banner" width="100%">
 </div>
 
-# Hi! I'm Rodrigo 🇲🇽 :mexico:
+# Hi! I'm Rodrigo 🇲🇽
 ### Data Scientist | Musician & Audio Producer 🎤 🎸
 
 ---
