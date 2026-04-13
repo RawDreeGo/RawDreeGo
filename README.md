@@ -2,14 +2,8 @@
   <img src="GitHubBanner.png" alt="Profile Banner" width="100%">
 </div>
 
-# Hi! I'm Rodrigo 🇲🇽 👋
+# Hi! I'm Rodrigo 🇲🇽 :mexico:
 ### Data Scientist | Musician & Audio Producer 🎤 🎸
-
----
-
-### 📈 Performance & Insights
-> *Focused on data visualization and constant growth.*
-> ![Sales Trend](https://img.shields.io/badge/Sales_Trend-↗_Positive_Growth-brightgreen?style=for-the-badge&logo=googlesheets&logoColor=white) 
 
 ---
 
